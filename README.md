@@ -27,7 +27,7 @@ Después de instalar, cierra y vuelve a abrir la terminal.
 
 ```bash
 git clone https://github.com/Roly-Luna/proyecto-algebra-lineal
-cd linear-algebra-project
+cd proyecto-algebra-lineal
 ```
 
 ## 3. Instalar las dependencias
