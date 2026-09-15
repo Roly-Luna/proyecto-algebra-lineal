@@ -45,5 +45,3 @@ uv run streamlit run frontend/streamlit_app.py
 Abre en el navegador la dirección que aparece en la terminal.
 
 Para detener la aplicación, presiona **Ctrl + C**.
-
-> No necesitas ejecutar `uv init`: el proyecto ya está configurado.
