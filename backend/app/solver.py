@@ -1,0 +1,3 @@
+def solve_lp(objective, constraints, non_negative=True):
+    # aqui se implementara el metodo grafico
+    ...
