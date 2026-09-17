@@ -44,7 +44,7 @@ with col3:
     )
 
 # muestra la funcion objetivo con formato matematico
-st.latex(rf"{obj_label} = {obj_a:g},{var1_name} + {obj_b:g},{var2_name} \quad ({mode})")
+st.latex(rf"{obj_label} = {obj_a:g}{var1_name} + {obj_b:g}{var2_name} \quad ({mode})")
 
 # prepara la seccion de restricciones
 st.subheader("2. Restricciones")
